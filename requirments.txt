@@ -1,0 +1,6 @@
+torchvision
+torch
+PySide6
+requests
+opencv-python
+matplotlib

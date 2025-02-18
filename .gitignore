@@ -1,0 +1,19 @@
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# Python #
+##########
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+
+# Environment variables #
+#########################
+.env
+.venv
+
+#Model Weights
+*.pth
